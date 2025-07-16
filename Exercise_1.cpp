@@ -1,3 +1,5 @@
+//time complexity : O(1) for all operations 
+// space complexity : O(MAX) = O(1000)
 #include <bits/stdc++.h> 
   
 using namespace std; 
@@ -5,8 +7,6 @@ using namespace std;
 #define MAX 1000 
   
 class Stack {
-  //Please read sample.java file before starting.
-  //Kindly include Time and Space complexity at top of each file
     int top; 
   
 public: 
